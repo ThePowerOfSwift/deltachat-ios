@@ -1,5 +1,6 @@
 import Foundation
 import UIKit
+import DcCore
 
 class QrViewController: UITableViewController, QrCodeReaderDelegate {
     private let rowQRCode = 0
